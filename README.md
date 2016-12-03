@@ -1,2 +1,2 @@
 # shophubtech
-Just a start
+Just a new start
